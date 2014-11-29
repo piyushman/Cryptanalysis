@@ -36,5 +36,4 @@ Screenshots
 Improvements
 ------------
 
-Plaintext which are combinations of words from Dictionary 2 are not decrypted correctly.
-Need to redesign the algorithm or get a betterway to get all combinations of words in the Dictionary 2 file.
+Plaintext which are combinations of words from Dictionary 2 are not decrypted correctly Thus need to redesign the algorithm or get a betterway to get all combinations of words in the Dictionary 2 file.
