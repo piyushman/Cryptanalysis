@@ -1,4 +1,4 @@
-Cryptanalysis-I
+Cryptanalysis
 ===============
 
 Decryption of Substitution Ciphers
